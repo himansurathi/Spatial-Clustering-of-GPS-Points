@@ -1,0 +1,2 @@
+Latitude,Longitude,Wait time,Trail_no
+23.5462033333,87.309575,20,june043

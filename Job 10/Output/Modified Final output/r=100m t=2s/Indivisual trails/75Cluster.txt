@@ -1,0 +1,2 @@
+Latitude,Longitude,Wait time,Trail_no
+23.53449,87.301855,2,june5
