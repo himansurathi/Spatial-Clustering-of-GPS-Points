@@ -2,6 +2,9 @@
 
 **Identification of Public Bus Stops and characterising their waiting time** is of significance 
 in the domain of Intelligent Transportation System and public interest. 
+
+![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429771/11578500-49fa-11e5-9cd6-43b9b4f461a8.jpg)
+
 ## Motivation
 >Surveys suggest that the existing systems and algorithms cannot be merely replicated 
 in the context of developing regions, because of the kind of heterogeneity and chaotic situation prevalent in their transport system, in contrast to the orderly and much regulated system of the developed world. 
@@ -16,6 +19,10 @@ distribution using a density based spatio-temporal clustering algorithm.
 
 The Live project is being updated in this [link](http://www.nitdgp.ac.in/MCN-RG/landmark/home.html)
 A corresponding paper has been published in **ACM SIGSPATIAL MOBIGIS 2014** which can be found in this [link](http://dl.acm.org/citation.cfm?doid=2675316.2675323) 
+
+![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429750/7d21e984-49f9-11e5-811c-260b1fe9753c.png)
+
+![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429795/7b321594-49fa-11e5-98b1-fa3a18104771.jpg)
 
 I was luckily a part of this project. And As a summer intern I had been assigned various Jobs which I had fulfilled in my intern ship
 
@@ -77,6 +84,8 @@ Latitude, Longitude, index)
 above the given threshold. Along with it a summary of all these trails in a single file was prepared for 
 better comparison
 
+![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429791/64d7cfbe-49fa-11e5-8a02-8863b6b88e88.png)
+
 ##### JOB 9
 
 * **Input** -Raw GPS Trails recorded by the Logger Unit
@@ -85,6 +94,8 @@ Latitude, Longitude, index)
 * **Work** -An User INPUT threshold will display only those points which are zero Lat-Long Points and 
 above the given threshold. Along with it a summary of all these trails in a single file was prepared for 
 better comparison
+
+![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429792/6f2bde92-49fa-11e5-9f5e-7f6d7bc7b603.jpg)
 
 ##### JOB 10
 
