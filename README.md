@@ -17,16 +17,14 @@ So Using customized hardware we present the analysis of public bus GPS traces of
 a suburban city (West Bengal, India). We have revealed **53 Bus Stops with 2% false positive** along with their waiting time 
 distribution using a density based spatio-temporal clustering algorithm.
 
-The Live project is being updated in this [link](http://www.nitdgp.ac.in/MCN-RG/landmark/home.html)
+The Live project is being updated in this [link](https://www.nitdgp.ac.in/mcnrg/?page_id=369#)
 A corresponding paper has been published in **ACM SIGSPATIAL MOBIGIS 2014** which can be found in this [link](http://dl.acm.org/citation.cfm?doid=2675316.2675323) 
 
 ![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429750/7d21e984-49f9-11e5-811c-260b1fe9753c.png)
 
 ![Alt text](https://cloud.githubusercontent.com/assets/7629815/9429795/7b321594-49fa-11e5-98b1-fa3a18104771.jpg)
 
-I was luckily a part of this project. And As a summer intern I had been assigned various Jobs which I had fulfilled in my intern ship
-
-###My Contribution
+### My Contribution
 
 ##### JOB1
 * **Input** -Latitude, Longitude, Altitude, TimeStamp
